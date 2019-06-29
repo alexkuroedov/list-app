@@ -1,0 +1,13 @@
+data/backup/*.sql
+app/node_modules
+app/public/hot
+app/public/storage
+app/storage/*.key
+app/vendor
+app/.idea
+app/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.env

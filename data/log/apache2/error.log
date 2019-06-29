@@ -1,0 +1,86 @@
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.23.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Jun 26 18:18:56.897683 2019] [unixd:alert] [pid 17] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Jun 26 18:18:56.897984 2019] [unixd:alert] [pid 18] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Jun 26 18:18:56.898083 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.2.19 configured -- resuming normal operations
+[Wed Jun 26 18:18:56.898115 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Jun 26 18:18:56.898235 2019] [unixd:alert] [pid 19] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Jun 26 18:18:56.898303 2019] [unixd:alert] [pid 16] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Jun 26 18:18:56.898451 2019] [unixd:alert] [pid 20] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Jun 26 18:19:03.906886 2019] [unixd:alert] [pid 21] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Jun 26 18:23:48.968654 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.23.0.5. Set the 'ServerName' directive globally to suppress this message
+[Wed Jun 26 18:23:57.597569 2019] [unixd:alert] [pid 17] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Jun 26 18:23:57.598010 2019] [unixd:alert] [pid 18] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Jun 26 18:23:57.598097 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.2.19 configured -- resuming normal operations
+[Wed Jun 26 18:23:57.598127 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Jun 26 18:23:57.598323 2019] [unixd:alert] [pid 20] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Jun 26 18:23:57.598582 2019] [unixd:alert] [pid 19] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Jun 26 18:23:57.598809 2019] [unixd:alert] [pid 16] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Jun 26 18:24:11.620533 2019] [unixd:alert] [pid 21] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Jun 26 18:27:04.442517 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.23.0.5. Set the 'ServerName' directive globally to suppress this message
+[Wed Jun 26 18:27:11.643108 2019] [unixd:alert] [pid 18] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Jun 26 18:27:11.643177 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.2.19 configured -- resuming normal operations
+[Wed Jun 26 18:27:11.643207 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Jun 26 18:27:11.643411 2019] [unixd:alert] [pid 17] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Jun 26 18:27:11.643418 2019] [unixd:alert] [pid 20] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Jun 26 18:27:11.643653 2019] [unixd:alert] [pid 19] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Jun 26 18:27:11.643683 2019] [unixd:alert] [pid 16] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Jun 26 18:27:19.649735 2019] [unixd:alert] [pid 21] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.23.0.5. Set the 'ServerName' directive globally to suppress this message
+[Wed Jun 26 18:32:50.515802 2019] [unixd:alert] [pid 19] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Jun 26 18:32:50.515866 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.2.19 configured -- resuming normal operations
+[Wed Jun 26 18:32:50.515898 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Jun 26 18:32:50.516102 2019] [unixd:alert] [pid 20] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Jun 26 18:32:50.516113 2019] [unixd:alert] [pid 18] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Jun 26 18:32:50.516360 2019] [unixd:alert] [pid 17] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Jun 26 18:32:50.516586 2019] [unixd:alert] [pid 16] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Jun 26 18:32:54.521833 2019] [unixd:alert] [pid 21] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Jun 26 19:52:28.256187 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.23.0.5. Set the 'ServerName' directive globally to suppress this message
+[Wed Jun 26 19:52:45.508129 2019] [unixd:alert] [pid 18] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Jun 26 19:52:45.508425 2019] [unixd:alert] [pid 19] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Jun 26 19:52:45.508443 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.2.19 configured -- resuming normal operations
+[Wed Jun 26 19:52:45.508480 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Jun 26 19:52:45.508662 2019] [unixd:alert] [pid 20] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Jun 26 19:52:45.508916 2019] [unixd:alert] [pid 17] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Jun 26 19:52:45.510059 2019] [unixd:alert] [pid 16] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Jun 26 19:53:09.532668 2019] [unixd:alert] [pid 21] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Jun 26 20:03:57.114989 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.23.0.5. Set the 'ServerName' directive globally to suppress this message
+[Wed Jun 26 20:04:06.535719 2019] [unixd:alert] [pid 17] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Jun 26 20:04:06.536024 2019] [unixd:alert] [pid 18] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Jun 26 20:04:06.536114 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.2.19 configured -- resuming normal operations
+[Wed Jun 26 20:04:06.536145 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Jun 26 20:04:06.536290 2019] [unixd:alert] [pid 19] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Jun 26 20:04:06.536336 2019] [unixd:alert] [pid 16] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Jun 26 20:04:06.536510 2019] [unixd:alert] [pid 20] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Jun 26 20:06:18.651194 2019] [unixd:alert] [pid 21] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Wed Jun 26 20:06:22.980067 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Fri Jun 28 11:34:20.693919 2019] [unixd:alert] [pid 18] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Fri Jun 28 11:34:20.693095 2019] [unixd:alert] [pid 17] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Fri Jun 28 11:34:20.694791 2019] [unixd:alert] [pid 16] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Fri Jun 28 11:34:20.694841 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.2.19 configured -- resuming normal operations
+[Fri Jun 28 11:34:20.714196 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Fri Jun 28 11:34:20.695420 2019] [unixd:alert] [pid 19] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Fri Jun 28 11:34:20.696007 2019] [unixd:alert] [pid 20] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Fri Jun 28 11:36:10.819234 2019] [unixd:alert] [pid 21] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Jun 28 11:41:22.554108 2019] [unixd:alert] [pid 17] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Fri Jun 28 11:41:22.554896 2019] [unixd:alert] [pid 18] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Fri Jun 28 11:41:22.555547 2019] [unixd:alert] [pid 19] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Fri Jun 28 11:41:22.556206 2019] [unixd:alert] [pid 20] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Fri Jun 28 11:41:22.556409 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.2.19 configured -- resuming normal operations
+[Fri Jun 28 11:41:22.573198 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Fri Jun 28 11:41:22.556943 2019] [unixd:alert] [pid 21] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Fri Jun 28 11:50:07.064519 2019] [unixd:alert] [pid 22] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Jun 29 06:59:49.386360 2019] [unixd:alert] [pid 16] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Sat Jun 29 06:59:49.387227 2019] [unixd:alert] [pid 17] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Sat Jun 29 06:59:49.387876 2019] [unixd:alert] [pid 18] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Sat Jun 29 06:59:49.388792 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.2.19 configured -- resuming normal operations
+[Sat Jun 29 06:59:49.403468 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Jun 29 06:59:49.388734 2019] [unixd:alert] [pid 19] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Sat Jun 29 06:59:49.389355 2019] [unixd:alert] [pid 20] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
+[Sat Jun 29 07:00:59.466598 2019] [unixd:alert] [pid 21] AH02155: getpwuid: couldn't determine user name from uid 1000, you probably need to modify the User directive
